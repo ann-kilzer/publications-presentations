@@ -1,5 +1,9 @@
 # Creative Coding to Inspire
 
+Event: Women Who Code CONNECT Recharge
+Date: May 26, 2022. 
+Location: Online
+
 ### Description
 
 Creative Coding is an approach to programming that celebrates innovation, experimentations, humor, and learning from failure. 
@@ -9,10 +13,7 @@ This session is for:  1. People who want to build portfolio projects, but need i
 3. Art, Culture, History, etc. Come explore and get inspired with several prompts for your next project. All levels welcome!
 
 
-Event: Women Who Code CONNECT Recharge
-Date: May 26, 2022. 
-Location: Online
-
 
 Slides: https://www.slideshare.net/AnnKilzer/creative-coding-to-inspire
+
 Recording: https://www.youtube.com/watch?v=crCCNK7b8co&ab_channel=WomenWhoCode
