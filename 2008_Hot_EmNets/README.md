@@ -2,10 +2,10 @@
 
 The Fifth Workshop on Embedded Networked Sensors (HotEmNets 2008)
 
-James Horey
-Jean-Charles Tournier
-Patrick Widener
-Arthur B. Maccabe
+James Horey,
+Jean-Charles Tournier,
+Patrick Widener,
+Arthur B. Maccabe,
 Ann Kilzer
 
 ## Abstract
