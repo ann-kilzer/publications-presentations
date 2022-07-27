@@ -12,5 +12,7 @@ This session is for:  1. People who want to build portfolio projects, but need i
 Event: Women Who Code CONNECT Recharge
 Date: May 26, 2022. 
 Location: Online
+
+
 Slides: https://www.slideshare.net/AnnKilzer/creative-coding-to-inspire
 Recording: https://www.youtube.com/watch?v=crCCNK7b8co&ab_channel=WomenWhoCode
